@@ -1,11 +1,11 @@
 # Site settings
-author: john beltrez
-title: 
+author: John Beltrez
+title: John's Flatiron Blog
 header-img: img/home-bg.png
 email: beltrezjohn@gmail.com
-copyright_name: john beltrez
+copyright_name: John Beltrez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Collection of 7 entries 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Jbeltrez
